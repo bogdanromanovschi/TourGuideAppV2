@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- COLORS FOR THE BASE APPLICATION THEME -->
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4A312A</color>
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- COLORS FOR THE CATEGORIES IN THE APP-->
+    <!-- Background color for the Architecture category -->
+    <color name="category_architecture">#16AFCA</color>
+
+    <!-- Background color for the Restaurants category -->
+    <color name="category_restaurants">#FD8E09</color>
+
+    <!-- Background color for the Nightlife" category -->
+    <color name="category_nightlife">#379237</color>
+
+    <!-- Background color for the Monuments category -->
+    <color name="category_monuments">#8800A0</color>
+
+    <!-- OTHER COLOR ELEMENTS-->
+    <!-- General text color -->
+    <color name="text_color">#FFFFFF</color>
+
+
+</resources>

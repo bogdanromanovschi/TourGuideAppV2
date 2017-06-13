@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Vienna Tour Guide</string>
+
+    <!-- Categories names -->
+    <string name="category_architecture">Architecture</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_nightlife">Nightlife</string>
+    <string name="category_monuments">Monuments</string>
+
+    <!-- Strings for category architecture -->
+    <string name="secessioncupole">Secession Cupole</string>
+    <string name="karlsplatzpavilion">Karlsplatz Pavilion</string>
+    <string name="kalrmarxhof">Kalr Marx Hof</string>
+    <string name="michaelerplatz">Michaelerplatz</string>
+    <string name="gasometer">Gasometer</string>
+    <string name="albertinaramp">Albertina Ramp</string>
+    <string name="wulearningcenter">WU Learning Center</string>
+    <string name="schemerlbruecke">Schemerlbruecke</string>
+    <string name="stadtopera">Stadtopera</string>
+    <string name="rathaus">Rathaus</string>
+    <string name="artnouveaumuseum">Art Nouveau Museum</string>
+    <string name="undergroundstation">Underground Station</string>
+    <string name="socialhousing">Social Housing</string>
+    <string name="bank">Bank</string>
+    <string name="housing">Housing</string>
+    <string name="museumentry">Museum Entry</string>
+    <string name="universitylibrary">University Library</string>
+    <string name="bridge">Bridge</string>
+    <string name="operahouse">Opera House</string>
+    <string name="cityhall">City Hall</string>
+    <string name="josephmariaolbrich">Joseph Maria Olbrich</string>
+    <string name="karlehn">Karl Ehn</string>
+    <string name="adolfloos">Adolf Loos</string>
+    <string name="jeannouvel">Jean Nouvel</string>
+    <string name="hanshollein">Hans Hollein</string>
+    <string name="zahahadid">Zaha Hadid</string>
+    <string name="ottowagner">Otto Wagner</string>
+    <string name="augustvonsicardsburg">August von Sicardsburg</string>
+    <string name="friedrichvonschmidt">Friedrich von Schmidt</string>
+
+    <!-- Strings for category restaurants -->
+    <string name="amstadt">Am Stadtpark 3</string>
+    <string name="demel">Demel</string>
+    <string name="docohotelvienna">DO &amp; CO Hotel Vienna</string>
+    <string name="grandhotelwien">Grand Hotel Wien</string>
+    <string name="hiltonvienna">Hilton Vienna</string>
+    <string name="hotelimpalaisschwarzenberg">Hotel im Palais Schwarzenberg</string>
+    <string name="hotelimperial">Hotel Imperial</string>
+    <string name="hotelsacher">Hotel Sacher</string>
+    <string name="intercontinentalvienna">InterContinental Vienna</string>
+    <string name="novellibacaroconcucina">Novelli bacaro con cucina</string>
+    <string name="palaiscoburg">Palais Coburg</string>
+    <string name="parkhyattvienna">Park Hyatt Vienna</string>
+    <string name="prilisauer">Prilisauer</string>
+    <string name="radissonblupalaishotel">Radisson Blu Palais Hotel</string>
+    <string name="restaurantmagnard">Restaurant Magnard</string>
+    <string name="rotisserieprinzeugen">Rotisserie Prinz Eugen</string>
+    <string name="steirereck">Steirereck</string>
+    <string name="viennaairportairrestcatering">Vienna Airport Airrest Catering</string>
+    <string name="kohlmarkt">Kohlmarkt 14, A-1010 Wien</string>
+    <string name="stephansplatz">Stephansplatz 12</string>
+    <string name="kaerntner">Kaerntner Ring 9</string>
+    <string name="schwarzenbergplatz">Schwarzenbergplatz 9</string>
+    <string name="karntner">Karntner Ring 16 A</string>
+    <string name="philharmonikerstasse">Philharmonikerstasse 4</string>
+    <string name="johannesgasse">Johannesgasse 28</string>
+    <string name="braunerstrasse">Bräunerstrasse 11a</string>
+    <string name="coburgbastei">Coburgbastei 4</string>
+    <string name="amhof">Am Hof 2</string>
+    <string name="linzer">Linzer Straße 423</string>
+    <string name="parkring">Parkring 16</string>
+    <string name="cours">45, Cours Brillier</string>
+    <string name="amheumarkt">Am Heumarkt 2A</string>
+    <string name="airport">1300 Vienna Airport</string>
+    <string name="austrian">Specific: Austrian</string>
+    <string name="european">Specific: European</string>
+
+    <!-- Strings for category nightlife -->
+    <string name="sassmusicclub">Sass Music Club</string>
+    <string name="lutz_derclub">lutz - der club</string>
+    <string name="rhiz">Rhiz</string>
+    <string name="babylonnightclub">Babylon Nightclub</string>
+    <string name="cabaretfledermaus">Cabaret Fledermaus</string>
+    <string name="radio_thelabelbar">Radio . The LabelBar</string>
+    <string name="tanzcafejenseits">Tanzcafe Jenseits</string>
+    <string name="flex">Flex</string>
+    <string name="primi">Primi</string>
+    <string name="whynotclubdisco">Why Not Clubdisco</string>
+    <string name="celestecafe">Celeste Cafe</string>
+    <string name="karlsplatz">Karlsplatz 1</string>
+    <string name="mariahilfer">Mariahilfer Str. 3</string>
+    <string name="ubahnbogen">U-Bahnbogen 37</string>
+    <string name="seilerstätte">Seilerstätte 1</string>
+    <string name="spiegelgasse">Spiegelgasse 2</string>
+    <string name="neustiftgasse">Neustiftgasse 38</string>
+    <string name="nelkengasse">Nelkengasse 3</string>
+    <string name="augartenbrucke">Augartenbrücke</string>
+    <string name="neuer">Neuer Markt 10–11</string>
+    <string name="tiefer">Tiefer Graben 22</string>
+    <string name="hamburgerstr">Hamburgerstr. 18</string>
+    <string name="phone_01">Reservations: 01 5041669</string>
+    <string name="phone_02">Reservations: 0664 80305405</string>
+    <string name="phone_03">Reservations: 01 4092505</string>
+    <string name="phone_04">Reservations: 01 5128495</string>
+    <string name="phone_05">Reservations: 01 5870196</string>
+    <string name="phone_06">Reservations: 04367 69363128</string>
+    <string name="phone_07">Reservations: 01 5871233</string>
+    <string name="phone_08">Reservations: 01 5337525</string>
+    <string name="phone_09">Reservations: 0676 5610398</string>
+    <string name="phone_10">Reservations: 01 9204714</string>
+    <string name="phone_11">Reservations: 01 5865314</string>
+
+    <!-- Strings for category monuments -->
+    <string name="johannstraussjunior">Johann Strauss Junior</string>
+    <string name="wamozart">W.A. Mozart</string>
+    <string name="eugenioofsavoy">Eugenio of Savoy</string>
+    <string name="archangelmichael">Archangel Michael</string>
+    <string name="pallasathene">Pallas Athene</string>
+    <string name="emperorjosephii">Emperor Joseph II</string>
+    <string name="plaguecolumn">Plague Column</string>
+    <string name="iranianluminaries">Iranian luminaries</string>
+    <string name="ludwigvanbeethoven">Ludwig van Beethoven</string>
+    <string name="empressmariatheresa">Empress Maria Theresa</string>
+    <string name="composers">Category: Composers</string>
+    <string name="historicalfigures">Category: Historical Figures</string>
+    <string name="mythology">Category: Mythology</string>
+    <string name="history">Category: History</string>
+    <string name="stadtpark">Stadtpark</string>
+    <string name="burggarten">Burggarten</string>
+    <string name="heldenplatz">Heldenplatz</string>
+    <string name="saintmichaelchurch">Saint Michael Church</string>
+    <string name="parlament">Parlament</string>
+    <string name="belvedere">Belvedere</string>
+    <string name="graben">Graben</string>
+    <string name="unocity">UNO City</string>
+    <string name="beethovenplatz">Beethoven Platz</string>
+    <string name="mariatheresienplatz">Maria Theresien Platz</string>
+
+
+
+</resources>

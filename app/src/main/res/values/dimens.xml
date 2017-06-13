@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Height of each menu item -->
+    <dimen name="menu_item_height">88dp</dimen>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">144dp</dimen>
+    <!-- Height of menu graphic element -->
+    <dimen name="graphic_item_height">288dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="icon">24dp</dimen>
+    <!-- Text size for list items -->
+    <dimen name="element_large">20sp</dimen>
+    <dimen name="element_small">16sp</dimen>
+</resources>

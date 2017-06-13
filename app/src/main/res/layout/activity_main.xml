@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/tan_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context="com.example.android.tourguideapp.MainActivity">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_architecture">
+
+            <LinearLayout
+                android:id="@+id/architecture"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="@dimen/menu_item_height"
+                    android:layout_height="@dimen/menu_item_height"
+                    android:src="@drawable/architecture" />
+
+                <TextView
+                    style="@style/CategoryStyle"
+                    android:text="@string/category_architecture" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_restaurants">
+
+            <LinearLayout
+                android:id="@+id/restaurants"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="@dimen/menu_item_height"
+                    android:layout_height="@dimen/menu_item_height"
+                    android:src="@drawable/resturants" />
+
+                <TextView
+                    style="@style/CategoryStyle"
+                    android:text="@string/category_restaurants" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_nightlife">
+
+            <LinearLayout
+                android:id="@+id/nightlife"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="@dimen/menu_item_height"
+                    android:layout_height="@dimen/menu_item_height"
+                    android:src="@drawable/nightlife" />
+
+                <TextView
+                    style="@style/CategoryStyle"
+                    android:text="@string/category_nightlife" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_monuments">
+
+            <LinearLayout
+                android:id="@+id/monuments"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="@dimen/menu_item_height"
+                    android:layout_height="@dimen/menu_item_height"
+                    android:src="@drawable/statues" />
+
+                <TextView
+                    style="@style/CategoryStyle"
+                    android:text="@string/category_monuments" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/graphic_item_height"
+            android:scaleType="centerCrop"
+            android:src="@drawable/vienna" />
+
+    </LinearLayout>
+</ScrollView>
